@@ -1,0 +1,11 @@
+Created for my five-year old niece, Elmo Sampler is a little musical toy geared towards kids who love Elmo and like banging keys on computer keyboards. The software has a library of samples taken from "The Elmo Song" which can be triggered by hitting different keys on the keyboard. Moving the mouse pointer around the screen pitch-shifts the sounds being generated. Software toys like this can help kids understand how different keystrokes and mouse gestures can trigger different things by the use of sound and can help them make more comfortable with computers. Created in Processing using the ESS sound library.
+
+
+
+This is a little Processing sketch, sampling Elmo's Song. 
+
+You can play around with it using your q, w, e, r, t, y, u, i, o, p, a, s, d, f, g keys and moving around your mouse pointer within the sketch boundaries.
+
+The keys will trigger different samples and moving the mouse pointer will pitch-shift the samples.
+
+Enjoy.
